@@ -1,0 +1,16 @@
+{
+  "app_id": "batchpix-pro",
+  "version": "1.0.0",
+  "channel": "stable",
+  "releaseDate": "2026-04-04",
+  "updateMode": "manual",
+  "mandatory": false,
+  "downloadUrl": "https://github.com/kenolabs11-sys/batchpix-pro/releases",
+  "releaseNotesUrl": "https://github.com/kenolabs11-sys/batchpix-pro/releases",
+  "message": "A new version of BatchPix is available.",
+  "notes": [
+    "Initial public free release",
+    "Basic image conversion",
+    "Modern UI"
+  ]
+}
