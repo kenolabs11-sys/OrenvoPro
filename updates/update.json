@@ -5,8 +5,8 @@
   "releaseDate": "2026-04-04",
   "updateMode": "manual",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kenolabs11-sys/batchpix-pro/releases",
-  "releaseNotesUrl": "https://github.com/kenolabs11-sys/batchpix-pro/releases",
+  "downloadUrl": "https://kenolabs.dev/batchpix/download",
+  "releaseNotesUrl": "https://kenolabs.dev/batchpix/changelog",
   "message": "A new version of BatchPix is available.",
   "notes": [
     "Initial public free release",
