@@ -1,13 +1,13 @@
 {
-  "app_id": "batchpix-pro",
+  "app_id": "OrenvoPro",
   "version": "5.0.0",
   "channel": "stable",
   "releaseDate": "2026-04-04",
   "updateMode": "manual",
   "mandatory": false,
-  "downloadUrl": "https://kenolabs.dev/batchpix/download",
-  "releaseNotesUrl": "https://kenolabs.dev/batchpix/changelog",
-  "message": "A new version of BatchPix is available.",
+  "downloadUrl": "https://kenolabs.dev/OrenvoPro/download",
+  "releaseNotesUrl": "https://kenolabs.dev/OrenvoPro/changelog",
+  "message": "A new version of OrenvoPro is available.",
   "notes": [
     "Initial public free release",
     "Basic image conversion",
