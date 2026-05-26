@@ -212,6 +212,6 @@ support@kenolabs.dev
 
 General contact:
 
-hello@kenolabs.dev
+contact@kenolabs.dev
 
 © 2026 KenoLabs. All rights reserved.
