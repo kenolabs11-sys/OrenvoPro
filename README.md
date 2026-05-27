@@ -51,8 +51,8 @@ Orenvo Pro is designed as a desktop workflow for Windows. Supported image proces
 
 Orenvo Pro is sold as a **one-time purchase**.
 
-- Launch price: **€29.99**
-- Regular price: **€59.99**
+- Launch price: **€22,49**
+- Regular price: **€44.99**
 - License type: **lifetime Pro license for the Orenvo Pro product line**
 - Subscription: **no subscription**
 - Devices: **up to 2 personal devices included**
