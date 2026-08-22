@@ -1,17 +1,17 @@
 {
   "app_id": "OrenvoPro",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "channel": "stable",
-  "releaseDate": "2026-06-09",
+  "releaseDate": "2026-08-22",
   "updateMode": "manual",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kenolabs11-sys/OrenvoPro/releases/download/v5.1.0/Orenvo.Pro_5.1.0_x64-setup.exe",
+  "downloadUrl": "https://github.com/kenolabs11-sys/OrenvoPro/releases/download/v5.2.0/Orenvo.Pro_5.2.0_x64-setup.exe",
   "releaseNotesUrl": "https://kenolabs.dev/orenvo/changelog",
-  "message": "Orenvo Pro 5.1.0 is available.",
+  "message": "Orenvo Pro 5.2.0 is available.",
   "notes": [
-    "Added basic DDS texture input support.",
-    "DDS files now work in converter, preview, background removal, and AI upscaling workflows when supported.",
-    "Improved HEIC/HEIF reliability on Windows without requiring system codecs.",
-    "Unsupported DDS texture variants now show a clearer message."
+    "Added 10 new output formats including GIF, DDS, JXL, and EXR.",
+    "Introduced a complete visual animated GIF workflow.",
+    "Added guided DDS export with standard 2D texture presets.",
+    "Improved Background Removal and Upscaling with side-by-side comparisons."
   ]
 }
