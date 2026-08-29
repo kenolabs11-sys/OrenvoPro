@@ -1,160 +1,122 @@
 # Orenvo Pro
 
-**Batch convert, remove backgrounds, and upscale images on Windows — with local-first image processing.**
+**Local-first batch image processing for Windows.**
 
-Orenvo Pro is a Windows desktop image workflow app by **KenoLabs**. It is built for creators, sellers, designers, photographers, and power users who process many images and want a faster local workflow than browser-based upload tools.
+Orenvo Pro is a Windows desktop app by **KenoLabs** for creators, online sellers, designers, photographers, and anyone who regularly works with more than one image. Convert, compress, remove backgrounds, upscale, create GIFs, and automate repeatable image workflows without sending normal image jobs to a browser service.
 
----
+## Orenvo Pro 5.2
 
-## Overview
+Version 5.2.0 adds a broader conversion workflow and faster local AI tools:
 
-Orenvo Pro helps you:
+- **20 output formats**, including GIF, DDS, JPEG XL, QOI, EXR, HDR, and Netpbm formats.
+- **Visual GIF Creator** with draggable frame order, live playback and scrubbing, Fit or Fill, timing, looping, palette quality, and watermark preview.
+- **Guided DDS export** with Opaque, Alpha, and Lossless Master presets, plus optional mipmaps for standard 2D textures.
+- **Improved Background Removal** with checkerboard transparency, Cutout and Mask views, edge refinement, and a non-destructive Keep/Remove brush editor.
+- **Improved AI Upscaling** with native 2x, Fast/Balanced/Best profiles, custom sizing, experimental 8x output, and automatic acceleration on compatible hardware.
+- **Windows Explorer AI actions** to remove a background or upscale using profiles saved in Orenvo.
+- **Faster startup** through on-demand loading of the Enhance, History, Watch, and Settings workspaces.
 
-- batch convert images between common formats,
-- compress images for web delivery,
-- remove image backgrounds,
-- upscale images with local AI models,
-- automate folder-based workflows,
-- manage explicit output folders,
-- keep repeatable image processing history.
+## Features
 
-Orenvo Pro is designed as a desktop workflow for Windows. Supported image processing runs locally on your PC for normal workflows, without a browser upload step.
+### Convert and prepare images
 
----
+- Process individual images, folders, or batches.
+- Resize by width, height, long edge, percentage, or custom target.
+- Rename files, select explicit output folders, and choose overwrite behavior.
+- Preserve or remove common EXIF metadata, including camera and location information where supported.
+- Add text or image watermarks across a batch.
+- Use Smart Compression when a smaller practical file matters more than an exact quality setting.
+- Save presets, inspect a representative image before processing, and review completed workflows in History.
 
-## Key Features
+### Create with local AI
 
-- **Batch Image Conversion**  
-  Convert folders of images with format, quality, resize, naming, and output-folder controls.
+- Remove backgrounds with a fast Standard mode or a higher-detail High Resolution mode for difficult edges.
+- Refine cutouts with feather, edge-shift, decontamination, and Keep/Remove mask brushes.
+- Upscale photos, illustrations, anime, and detail-focused images with 2x, 4x, 8x, or custom-size output.
+- Download only the models you need; prepared models are reused for later single, batch, and Explorer jobs.
+- Use compatible GPU acceleration automatically, with CPU processing available when required.
 
-- **Background Removal**  
-  Remove backgrounds from portraits, product images, and illustrations using local AI models after setup.
+### Automate repeatable work
 
-- **AI Upscaling**  
-  Upscale images with local AI workflows for photo, illustration, and creative assets.
+- Monitor an input folder with **Watch Mode** and process new files using a saved recipe.
+- Use Windows Explorer quick conversions for frequently used formats.
+- Run saved Background Removal or Upscaling profiles from the Orenvo submenu in File Explorer; finished AI jobs show a Windows notification.
 
-- **Smart Compression**  
-  Prepare lighter images for web and content workflows.
+## Output formats
 
-- **Watch Folder Automation**  
-  Monitor folders and process new images with repeatable settings.
+Orenvo Pro supports 20 output formats:
 
-- **Workflow History**  
-  Review completed runs and access previous output locations.
+`JPG`, `PNG`, `WEBP`, `AVIF`, `HEIC`, `HEIF`, `TIFF`, `TGA`, `BMP`, `ICO`, `DDS`, `JXL`, `GIF`, `QOI`, `EXR`, `HDR`, `PAM`, `PPM`, `PGM`, and `PBM`.
 
-- **Windows Desktop Workflow**  
-  Built for local productivity instead of one-file browser tools.
+Format-specific controls are shown only when relevant. For example, DDS offers texture presets and mipmaps, JPEG XL offers encoder-effort controls, and GIF offers multi-frame animation controls.
 
----
+## Free and Pro
 
-## Pricing
+| Feature | Free | Pro |
+| --- | --- | --- |
+| Output formats | JPG, PNG, WEBP | All 20 formats |
+| Conversion batch size | Up to 10 files | Unlimited |
+| Resize and naming | Basic tools | Full workflow controls |
+| Background Removal | 10 uses | Unlimited |
+| AI Upscaling | 10 uses | Unlimited |
+| Smart Compression, Watch Mode, saved automation, and Explorer workflows | — | Included |
 
-Orenvo Pro is sold as a **one-time purchase**.
+The Background Removal and Upscaling allowances are separate. The Free workflow does not require a credit card or an Orenvo account.
 
-- Launch price: **€22,49**
-- Regular price: **€44.99**
-- License type: **lifetime Pro license for the Orenvo Pro product line**
-- Subscription: **no subscription**
-- Devices: **up to 2 personal devices included**
-- Free tier: limited free usage is available before purchase
+Orenvo Pro is **€24.99 as a one-time purchase**. It has no monthly subscription and can be activated on up to two personal devices. The price and allowances shown inside the app are authoritative.
 
-Purchase and license key delivery are handled by an authorized payment provider.
+## License activation
 
----
+After purchase, enter the license key in **Settings → License**:
 
-## License Activation
-
-After purchase, the customer receives a license key by email or receipt page.
-
-To activate:
-
-1. Download and open Orenvo Pro.
+1. Open Orenvo Pro.
 2. Go to **Settings → License**.
-3. Paste the license key.
-4. Activate Pro features on the device.
+3. Paste the license key from your purchase receipt.
+4. Activate the device.
 
-License activation, device limits, validation, and access status are managed by KenoLabs’ secure license service.
+License activation, device limits, validation, and access status are managed through KenoLabs’ secure license service. Refunded, disputed, or charged-back orders may lose Pro access.
 
-Refunded, disputed, or charged-back orders may revoke Pro access.
+## Privacy and local processing
 
----
+Supported conversion, Background Removal, and Upscaling run on your Windows PC. Source images are not uploaded to KenoLabs for normal image processing.
 
-## Privacy and Local Processing
+- AI models download when first needed and remain stored locally for later sessions.
+- Output folders remain under your control.
+- Internet access may be used for license checks, updates, first-time model downloads, Free-allowance verification, and a support report you choose to send.
+- Payments and license-key delivery are handled by the authorized checkout provider.
 
-Orenvo Pro is designed to process supported image workflows locally on your Windows PC.
-
-For normal supported conversion, background removal, and upscaling workflows:
-
-- image files are not uploaded to KenoLabs servers for processing,
-- supported workflows run locally after setup,
-- AI models may download once and then run locally,
-- output folders remain explicit and under user control.
-
-License checks, updates, model downloads, and support/reporting features may use network access.
-
----
-
-## System Requirements
+## System requirements
 
 - Windows desktop PC
 - Windows 11 tested
 - Windows 10 64-bit may work, but is not officially tested
-- Internet connection may be required for license activation, updates, support/reporting, and initial AI model downloads
-- Sufficient disk space for AI model files if AI tools are used
+- 8 GB RAM minimum; 16 GB recommended
+- 2 GB free storage, plus space for any AI models you install
+- A compatible GPU is optional and speeds up Background Removal and Upscaling; CPU processing remains available
+- Internet access for activation, updates, first-time model downloads, Free-allowance verification, or support reports
 
----
+The first AI task may take longer while Orenvo downloads and prepares its selected model.
 
-## Useful Links
+## Download
 
-- Website: https://kenolabs.dev/orenvo
-- Terms: https://kenolabs.dev/orenvo/terms
-- Refund Policy: https://kenolabs.dev/orenvo/refund-policy
-- Privacy Policy: https://kenolabs.dev/orenvo/privacy
-- Third-Party Licenses: https://kenolabs.dev/orenvo/third-party-licenses
-- Support: https://kenolabs.dev/orenvo/support
+Download Orenvo Pro from the [official KenoLabs website](https://kenolabs.dev/orenvo). Open the Windows installer and follow the setup steps; you can use the app in Free mode before upgrading to Pro.
 
----
+## Useful links
 
-## Third-Party AI Models
-
-Orenvo Pro uses open-source AI models and components for selected local AI workflows.
-
-Third-party model notices include:
-
-- BEN2
-- BiRefNet-HR
-- RealPLKSR
-- Real-ESRGAN
-
-See the full third-party license information:
-
-https://kenolabs.dev/orenvo/third-party-licenses
-
----
+- [Orenvo Pro website](https://kenolabs.dev/orenvo)
+- [GitHub repository](https://github.com/kenolabs11-sys/OrenvoPro)
+- [Terms & License Agreement](https://kenolabs.dev/orenvo/terms)
+- [Refund Policy](https://kenolabs.dev/orenvo/refund-policy)
+- [Privacy Policy](https://kenolabs.dev/orenvo/privacy)
+- [Third-party licenses](https://kenolabs.dev/orenvo/third-party-licenses)
+- [Support](https://kenolabs.dev/orenvo/support)
 
 ## Support
 
-For license help, purchase questions, bug reports, or technical support, contact:
-
-**contact@kenolabs.dev**
-
-Please include:
-
-- purchase email,
-- order ID if available,
-- app version,
-- Windows version,
-- screenshot of the issue if helpful,
-- short description of what happened.
-
-Do not share your full license key publicly.
-
----
+For purchase, license, or technical help, contact **contact@kenolabs.dev**. Include the app version, Windows version, a short description of the issue, and a screenshot if useful. Do not share a full license key publicly.
 
 ## Legal
 
-Orenvo Pro is proprietary software by KenoLabs.
-
-Orenvo Pro is licensed, not sold. Use is subject to the Orenvo Pro Terms & License Agreement.
+Orenvo Pro is proprietary software by KenoLabs. It is licensed, not sold, and is subject to the [Orenvo Pro Terms & License Agreement](https://kenolabs.dev/orenvo/terms).
 
 © 2026 KenoLabs. All rights reserved.
