@@ -1,17 +1,16 @@
 {
   "app_id": "OrenvoPro",
-  "version": "5.2.0",
+  "version": "5.3.0",
   "channel": "stable",
-  "releaseDate": "2026-08-22",
+  "releaseDate": "2026-09-11",
   "updateMode": "manual",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kenolabs11-sys/OrenvoPro/releases/download/v5.2.0/Orenvo.Pro_5.2.0_x64-setup.exe",
+  "downloadUrl": "https://github.com/kenolabs11-sys/OrenvoPro/releases/download/v5.3.0/Orenvo.Pro_5.3.0_x64-setup.exe",
   "releaseNotesUrl": "https://kenolabs.dev/orenvo/changelog",
-  "message": "Orenvo Pro 5.2.0 is available.",
+  "message": "Orenvo Pro 5.3.0 is available.",
   "notes": [
-    "Added 10 new output formats including GIF, DDS, JXL, and EXR.",
-    "Introduced a complete visual animated GIF workflow.",
-    "Added guided DDS export with standard 2D texture presets.",
-    "Improved Background Removal and Upscaling with side-by-side comparisons."
+    "Expanded Watch Mode: can now automatically run Convert, Background Removal or AI Upscaling when new images are added.",
+    "Watch Mode actions can be configured directly per folder for automated workflows.",
+    "Fixed a problem that could prevent Orenvo Pro actions in the Windows Explorer right-click menu from working correctly."
   ]
 }
