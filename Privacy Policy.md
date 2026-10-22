@@ -1,6 +1,6 @@
 # Orenvo Pro — Privacy Policy
 
-Last updated: May 2026
+**Last updated: October 22, 2026**
 
 This Privacy Policy explains how KenoLabs (“KenoLabs”, “we”, “us”, or “our”) handles information in connection with Orenvo Pro, our Windows desktop software for image conversion, background removal, AI upscaling, and related image workflows.
 
@@ -8,11 +8,9 @@ We designed Orenvo Pro to keep your image files local whenever possible. This po
 
 By downloading, installing, activating, or using Orenvo Pro, you agree to this Privacy Policy.
 
----
-
 ## 1. Local Image Processing
 
-Orenvo Pro is designed to process your image files locally on your device.
+Supported image workflows run locally on your Windows PC.
 
 For normal app workflows such as:
 
@@ -23,11 +21,9 @@ For normal app workflows such as:
 - preview generation,
 - export workflows,
 
-your image files are not uploaded to KenoLabs servers for processing.
+There is no browser upload step for normal supported workflows.
 
-AI model files may be downloaded separately on first use and then run locally on your device.
-
----
+License checks, updates, model downloads, and support/reporting features may use network access.
 
 ## 2. Information We May Process
 
@@ -38,6 +34,7 @@ This may include:
 - license key or license key reference,
 - purchase email,
 - order ID or purchase reference,
+- customer ID or payment provider customer identifier,
 - product and variant information,
 - license status,
 - device activation count,
@@ -46,13 +43,13 @@ This may include:
 - operating system and platform,
 - activation timestamp,
 - last validation or heartbeat timestamp,
+- purchase amount, currency, and payment status,
+- coupon or discount information where applicable,
 - refund, revoke, or chargeback status,
 - support messages you choose to send,
 - diagnostic information you explicitly choose to submit.
 
 We do not need your raw image files for license activation or normal license validation.
-
----
 
 ## 3. License Activation and Validation
 
@@ -77,11 +74,13 @@ This information is used to:
 - revoke access for refunded, disputed, or charged-back orders,
 - maintain the security and integrity of the licensing system.
 
----
-
 ## 4. Payments, Receipts, and License Key Delivery
 
-Payments, receipts, and license key delivery are handled by our authorized payment provider.
+New Orenvo Pro purchases are processed through Freemius, our current payment provider and Merchant of Record.
+
+Previous purchases were processed through Lemon Squeezy. Existing valid Lemon Squeezy licenses remain supported, and customers do not need to purchase a new license because of this change.
+
+KenoLabs may receive the purchase and license information needed for activation, customer support, and license management.
 
 KenoLabs does not store your full payment card number or full payment card details.
 
@@ -97,8 +96,6 @@ The payment provider may process information such as:
 - refund or chargeback information.
 
 Payment processing is subject to the payment provider’s own terms and privacy practices.
-
----
 
 ## 5. Free Usage and Usage Limits
 
@@ -116,8 +113,6 @@ To protect the free tier from abuse and to synchronize usage limits, the app may
 - reset or support status.
 
 This information is used only to manage usage limits, prevent abuse, and provide support.
-
----
 
 ## 6. Support and Reports
 
@@ -137,8 +132,6 @@ Do not send private or sensitive files unless support specifically asks for them
 
 Lightweight support messages do not include your image files by default.
 
----
-
 ## 7. Crash and Error Information
 
 Orenvo Pro may collect limited crash or error information if this feature is enabled.
@@ -157,8 +150,6 @@ Crash reports are used to improve reliability, fix bugs, and understand app fail
 
 Crash reports should not include your image files unless you explicitly choose to send diagnostic attachments in a future support workflow.
 
----
-
 ## 8. Updates and Remote Configuration
 
 Orenvo Pro may check for updates, version information, product configuration, pricing links, feature availability, security notices, or important announcements.
@@ -172,20 +163,16 @@ These checks may contact KenoLabs services and may include limited technical inf
 
 This helps us keep the app secure, compatible, and up to date.
 
----
-
 ## 9. What We Do Not Do
 
 For normal Orenvo Pro workflows, we do not:
 
-- upload your image files for processing,
+- use a browser upload step for normal supported workflows,
 - use your image files to train AI models,
 - sell your personal information,
 - sell your image files,
 - store your full payment card details,
 - require cloud processing for image conversion, background removal, or upscaling.
-
----
 
 ## 10. Data Storage and Security
 
@@ -194,8 +181,6 @@ We use reasonable technical and organizational measures to protect information h
 License and support records may be stored in secure systems operated by KenoLabs or trusted service providers.
 
 No system is completely secure, but we work to reduce risk through limited data collection, access controls, redaction, and secure service design.
-
----
 
 ## 11. Third-Party Services
 
@@ -209,9 +194,9 @@ Orenvo Pro and KenoLabs services may use trusted third-party providers for:
 - support workflows,
 - analytics or operational monitoring where applicable.
 
-These providers process information according to their own terms and privacy policies.
+These providers include Freemius for new purchases and Lemon Squeezy for previous purchases.
 
----
+These providers process information according to their own terms and privacy policies.
 
 ## 12. Data Retention
 
@@ -225,8 +210,6 @@ We keep information only as long as reasonably necessary for:
 - security and reliability.
 
 Some records, such as order references, license status, refund status, and activation history, may be retained to prevent fraud, support customers, and maintain license integrity.
-
----
 
 ## 13. Your Choices
 
@@ -242,13 +225,9 @@ You can contact us to request help with:
 
 Some information may need to be retained for legitimate business, legal, fraud prevention, or licensing reasons.
 
----
-
 ## 14. Children
 
 Orenvo Pro is not directed to children. We do not knowingly collect personal information from children.
-
----
 
 ## 15. Changes to This Privacy Policy
 
@@ -256,12 +235,8 @@ We may update this Privacy Policy from time to time.
 
 Updated versions will be posted on the official Orenvo Pro website. Continued use of Orenvo Pro after an update means you accept the updated policy.
 
----
-
 ## 16. Contact
 
-For privacy questions, support, or data requests, contact:
-
-contact@kenolabs.dev
+For privacy questions, support, or data requests, contact: [contact@kenolabs.dev](mailto:contact@kenolabs.dev)
 
 © 2026 KenoLabs. All rights reserved.
