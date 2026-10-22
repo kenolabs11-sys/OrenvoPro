@@ -1,19 +1,19 @@
 {
   "app_id": "OrenvoPro",
-  "version": "5.4.0-beta.1",
+  "version": "5.4.5-beta.1",
   "channel": "beta",
-  "releaseDate": "2026-09-25",
+  "releaseDate": "2026-10-22",
   "updateMode": "manual",
   "mandatory": false,
-  "downloadUrl": "https://github.com/kenolabs11-sys/OrenvoPro/releases/download/v5.4.0-beta.1/Orenvo.Pro_5.4.0-beta.1_x64-setup.exe",
-  "releaseNotesUrl": "https://kenolabs.dev/orenvo/changelog",
-  "message": "Orenvo Pro 5.4.0 Beta 1 is available.",
+  "downloadUrl": "https://github.com/kenolabs11-sys/OrenvoPro/releases/download/v5.4.5-Beta.1/Orenvo.Pro_5.4.5-beta.1_x64-setup.exe",
+  "releaseNotesUrl": "https://github.com/kenolabs11-sys/OrenvoPro/releases/tag/v5.4.5-Beta.1",
+  "message": "Orenvo Pro v5.4.5 Beta 1 is available.",
   "notes": [
-    "New Converter workspace: queue, Before / After preview, and output settings stay visible together.",
-    "Compare original and result with a draggable divider, zoom, and pan. Preview refreshes in the background.",
-    "Dedicated text and logo watermark editor with placement, styling, and reusable presets.",
-    "Reorder files and GIF frames, retry failed items, or requeue completed work.",
-    "Web, Print, Social, Game Texture, and Archive presets. Converter settings are remembered between launches.",
-    "Clearer Watch Mode errors and more reliable upgrades for existing Pro activations."
+    "More reliable Watch Mode automation and background settings.",
+    "Dedicated HDR Viewer and more accurate Before / After previews.",
+    "Improved AI model integrity and image conversion reliability.",
+    "Better HDR, EXR, ICO, DDS, and JPEG XL preview handling.",
+    "Refined Windows installer and Explorer integration.",
+    "Improved Freemius license compatibility."
   ]
 }
