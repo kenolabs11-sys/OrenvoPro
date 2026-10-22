@@ -1,12 +1,10 @@
 # Orenvo Pro — Terms & License Agreement
 
-Last updated: May 2026
+**Last updated: October 22, 2026**
 
 These Terms & License Agreement (“Terms”) govern your download, installation, activation, and use of Orenvo Pro, a desktop software product developed and published by KenoLabs (“KenoLabs”, “we”, “us”, or “our”).
 
 By downloading, installing, activating, or using Orenvo Pro, you agree to these Terms. If you do not agree, do not install, activate, or use the software.
-
----
 
 ## 1. Product
 
@@ -14,17 +12,15 @@ Orenvo Pro is a Windows desktop application for image workflows such as batch co
 
 Some features may be available in a limited free tier. Pro features require a valid license key.
 
----
-
 ## 2. License Grant
 
-Subject to these Terms and payment of the applicable license fee, KenoLabs grants you a limited, non-exclusive, non-transferable, revocable license to install and use Orenvo Pro.
+Subject to these Terms and, where applicable, payment of the license fee, KenoLabs grants you a limited, non-exclusive, non-transferable, revocable license to install and use Orenvo Pro.
 
-A valid Orenvo Pro license allows use on up to 2 personal devices, unless a different device limit is explicitly stated at the time of purchase.
+This grant also applies to valid Orenvo Pro licenses issued through free promotions, giveaways, or discount codes covering 100% of the purchase price, provided the license has been legitimately issued and remains valid. Such promotional licenses do not require a monetary payment to qualify for the license grant.
+
+A valid Orenvo Pro license allows use on up to 2 personal devices, unless a different device limit is explicitly stated at the time of purchase or legitimate promotional issue.
 
 This is a software license. Orenvo Pro is licensed, not sold.
-
----
 
 ## 3. Lifetime License Meaning
 
@@ -41,8 +37,6 @@ An Orenvo Pro lifetime license gives you lifetime access to the included Orenvo 
 
 KenoLabs may continue improving Orenvo Pro and may provide updates at its discretion.
 
----
-
 ## 4. Device Limit and Activation
 
 Orenvo Pro licenses include activation for up to 2 devices.
@@ -53,8 +47,6 @@ During activation and license checks, Orenvo Pro may send limited license-relate
 
 You may contact support if you need help moving your license to a new device.
 
----
-
 ## 5. Free Tier
 
 Orenvo Pro may be downloaded and used in a limited free capacity without a Pro license key.
@@ -62,8 +54,6 @@ Orenvo Pro may be downloaded and used in a limited free capacity without a Pro l
 Free tier access may include limited usage of selected features. Free tier limits, included features, and availability may change over time.
 
 The free tier does not guarantee unlimited access to AI tools, Pro workflows, advanced automation, or future features.
-
----
 
 ## 6. Pro Features
 
@@ -81,17 +71,15 @@ A valid Orenvo Pro license may unlock Pro features such as:
 
 Feature availability may vary by version, operating system capability, hardware capability, and model availability.
 
----
-
 ## 7. Payments and License Delivery
 
-Payments, receipts, and license key delivery are processed by our authorized payment provider.
+New Orenvo Pro purchases are processed through Freemius, our current payment provider and Merchant of Record. Previous purchases were processed through Lemon Squeezy.
 
-After purchase, your license key may be delivered by email, receipt page, or customer order page. Keep your license key private.
+Existing valid Lemon Squeezy licenses remain supported. Customers holding these licenses do not need to buy Orenvo Pro again solely because the payment provider has changed.
 
-KenoLabs does not store full payment card details. Payment processing, receipts, tax handling, refunds, and chargebacks are handled by the payment provider according to its own terms and applicable law.
+After purchase or a valid promotional issue, your license key may be delivered by email, receipt page, or customer order page. Keep your license key private.
 
----
+KenoLabs does not store full payment card details. Payment processing, receipts, tax handling, refunds, and chargebacks are handled through the payment provider associated with the original transaction, according to its own terms and applicable law.
 
 ## 8. Restrictions
 
@@ -105,8 +93,6 @@ You may not:
 - use Orenvo Pro to create or provide a competing product or service,
 - use automated systems to abuse free usage limits, license activation, support, reporting, or download systems,
 - use Orenvo Pro in a way that violates applicable law or third-party rights.
-
----
 
 ## 9. License Abuse, Refunds, Chargebacks, and Revocation
 
@@ -124,8 +110,6 @@ If a license is revoked, Orenvo Pro may stop providing Pro access and return to 
 
 Refunded, disputed, or charged-back orders do not continue to provide Pro access.
 
----
-
 ## 10. Updates
 
 KenoLabs may provide updates, bug fixes, model updates, security improvements, performance improvements, and feature changes.
@@ -133,8 +117,6 @@ KenoLabs may provide updates, bug fixes, model updates, security improvements, p
 Updates may be delivered through the app, the website, GitHub releases, or another official distribution channel.
 
 KenoLabs may modify, replace, improve, or remove features where necessary for security, reliability, compatibility, legal compliance, or product quality.
-
----
 
 ## 11. AI Models and Third-Party Components
 
@@ -144,17 +126,13 @@ Third-party notices are available on the Orenvo Pro Third-Party Licenses page an
 
 Where applicable, third-party model files may be downloaded separately on first use and run locally on your device.
 
----
-
 ## 12. Local Processing and User Files
 
-Orenvo Pro is designed to process user image files locally on your device.
+Supported image workflows run locally on your Windows PC.
 
-Image files are not uploaded to KenoLabs servers for normal conversion, background removal, or upscaling workflows.
+There is no browser upload step for normal supported workflows.
 
-Some non-image data may be exchanged for license activation, update checks, support, error reporting, usage limits, or security checks as described in the Privacy Policy.
-
----
+License checks, updates, model downloads, and support/reporting features may use network access, as described in the Privacy Policy.
 
 ## 13. Support
 
@@ -164,8 +142,6 @@ Support may require your order email, order ID, license key short code, app vers
 
 Do not send private files unless specifically requested and you agree to do so.
 
----
-
 ## 14. No Warranty
 
 Orenvo Pro is provided “as is” and “as available” without warranties of any kind, whether express, implied, or statutory.
@@ -174,15 +150,11 @@ KenoLabs does not guarantee that the software will be error-free, uninterrupted,
 
 You are responsible for keeping backups of your files and verifying outputs before using them in production, commercial, or critical workflows.
 
----
-
 ## 15. Limitation of Liability
 
 To the maximum extent permitted by applicable law, KenoLabs shall not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, including loss of data, loss of profits, business interruption, or loss of goodwill arising from the use of, or inability to use, Orenvo Pro.
 
 KenoLabs’ total liability for any claim relating to Orenvo Pro shall not exceed the amount you paid for the license, unless applicable law requires otherwise.
-
----
 
 ## 16. Termination
 
@@ -192,8 +164,6 @@ Your rights under these Terms terminate automatically if you violate the Terms, 
 
 After termination, you must stop using Orenvo Pro and remove the software from your devices if requested.
 
----
-
 ## 17. Changes to These Terms
 
 KenoLabs may update these Terms from time to time. Updated terms will be posted on the official Orenvo Pro website.
@@ -202,16 +172,10 @@ Material changes may be reflected in the app, website, release notes, or support
 
 Continued use of Orenvo Pro after changes become effective means you accept the updated Terms.
 
----
-
 ## 18. Contact
 
-For questions about these Terms, licensing, activation, or support, contact:
+For questions about these Terms, licensing, activation, or support, contact: [contact@kenolabs.dev](mailto:contact@kenolabs.dev)
 
-support@kenolabs.dev
-
-General contact:
-
-contact@kenolabs.dev
+General contact: [contact@kenolabs.dev](mailto:contact@kenolabs.dev)
 
 © 2026 KenoLabs. All rights reserved.
